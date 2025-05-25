@@ -1,0 +1,22 @@
+{
+  "number" : 2,
+  "cashierId" : "C1",
+  "dateTime" : [ 2025, 5, 25, 22, 21, 38, 374974000 ],
+  "lines" : [ {
+    "productId" : "P1",
+    "productName" : "Widget",
+    "unitPrice" : 120.0,
+    "quantity" : 2
+  }, {
+    "productId" : "P2",
+    "productName" : "Apple",
+    "unitPrice" : 0.55,
+    "quantity" : 1
+  }, {
+    "productId" : "P3",
+    "productName" : "Milk",
+    "unitPrice" : 1.1,
+    "quantity" : 1
+  } ],
+  "total" : 241.65
+}

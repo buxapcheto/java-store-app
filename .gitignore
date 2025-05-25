@@ -1,0 +1,18 @@
+# Maven папката с компилирани класове и билд артефакти
+/target/
+
+# Eclipse, IntelliJ IDEA, VSCode настройки
+/.idea/
+/.vscode/
+/*.iml
+
+# Java класове
+*.class
+
+# Логове
+*.log
+
+# OS файлове
+.DS_Store
+Thumbs.db
+
